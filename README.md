@@ -122,4 +122,4 @@ passkeys/
 
 ## License
 
-This project is provided as-is for educational and personal use.
+See the [LICENSE](LICENSE) file for details.
