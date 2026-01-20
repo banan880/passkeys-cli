@@ -1,6 +1,20 @@
-# Passkeys CLI - Production-Ready Password Manager
+<h1 align="center">Passkeys CLI</h1>
 
-A secure, production-level command-line password manager with encryption, validation, and enhanced user experience.
+<p align="center">
+  <img src="./banner.png" alt="Passkeys CLI Banner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/release-stable-brightgreen" alt="Stable Release" />
+  <img src="https://img.shields.io/badge/crypto-AES--GCM%20%7C%20Argon2-blue" alt="Encryption & KDF" />
+  <img src="https://img.shields.io/badge/interface-CLI-orange" alt="CLI Interface" />
+</p>
+
+<p align="center">
+  Secure • Encrypted • Production-Ready Password Manager
+</p>
+
+
 
 ## Features
 
