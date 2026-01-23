@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "passkeys-cli"
+version = "0.1.0"
+description = "Cross-platform secure passkey manager CLI"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+
+authors = [
+  { name = "Mohammad Umar Shaikh", email = "mohammadumar.dev@gmail.com" }
+]
+
+dependencies = [
+  "psycopg[binary]>=3.1.0",
+  "cryptography>=41.0.0",
+  "argon2-cffi>=23.1.0",
+  "python-dotenv>=1.0.0"
+]
+
+[project.scripts]
+passkeys-cli = "passkeys_cli.main:main"
