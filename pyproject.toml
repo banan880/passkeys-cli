@@ -22,4 +22,4 @@ dependencies = [
 ]
 
 [project.scripts]
-passkeys-cli = "passkeys_cli.main:main"
+passkeys-cli = "main:main"

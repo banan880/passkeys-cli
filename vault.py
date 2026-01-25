@@ -13,7 +13,7 @@ def create_entry(service, username, secret, key):
         username: Username (validated)
         secret: Password/secret (validated)
         key: Encryption key
-        
+      
     Raises:
         ValidationError: If validation fails
         RuntimeError: If database operation fails
